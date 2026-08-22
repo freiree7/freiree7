@@ -33,19 +33,21 @@
 ###
 
 <div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/freiree7/freiree7/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/freiree7/freiree7/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/freiree7/freiree7/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/freiree7/freiree7/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 ###
 
-<h1 data-importer="text" align="left">Estatísticas</h1>
+<h1 data-importer="text" align="left">Redes Sociais</h1>
 
 ###
 
 <div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="discord logo"  />
+  <a href = "https://www.linkedin.com/in/freireee/" target = "_blanck">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="100" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="100" alt="discord logo"  />
+  </a>
 </div>
 
 ###
