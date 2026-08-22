@@ -13,6 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - uses: actions/checkout@v4
       - name: generate stats.svg
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -26,4 +27,4 @@ jobs:
           target_branch: stats-output
           build_dir: dist
         env:
-          GH_PAT: ${{ secrets.PAT_TOKEN }}  ← MUDOU AQUI!
+          GH_PAT: ${{ secrets.PAT_TOKEN }}
