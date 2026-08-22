@@ -23,7 +23,7 @@
   <img width="25" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="50" alt="insomnia logo"  />
+  
 </div>
 
 ###
